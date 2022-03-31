@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/ilovespicynoodles/vivaldi/stargazers"><img src="https://img.shields.io/github/stars/ilovespicynoodles/vivaldi?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
-    <a href="https://github.com/ilovespicynoodles/vivaldi/issues"><img src="https://img.shields.io/github/issues/ilovespicynoodles/vivaldi?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/ilovespicynoodles/vivaldi/contributors"><img src="https://img.shields.io/github/contributors/ilovespicynoodles/vivaldi?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/vivaldi/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/vivaldi?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/catppuccin/vivaldi/issues"><img src="https://img.shields.io/github/issues/catppuccin/vivaldi?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/catppuccin/vivaldi/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/vivaldi?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
 <p align="center">
