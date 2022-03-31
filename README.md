@@ -21,7 +21,7 @@
 2. Click on the Vivaldi icon in the Vivaldi browser.
 3. Click on `Settings` and select the `Themes` tab.
 4. Select `Open Theme...` and browse to where you cloned Catppuccin
-5. Select the Catppuccin.zip file.
+5. Select the `Catppuccin.zip` file.
 
 ## 💝 Thanks to
 
