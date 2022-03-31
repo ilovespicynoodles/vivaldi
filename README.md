@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for App
+	Catppuccin for Vivaldi
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -18,18 +18,14 @@
 ## Usage
 
 1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
-
-## 🙋 FAQ (optional)
-
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
+2. Click on the Vivaldi icon in the Vivaldi browser.
+3. Click on `Settings` and select the `Themes` tab.
+4. Select `Open Theme...` and browse to where you cloned Catppuccin
+5. Select the Catppuccin.zip file.
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [I ♥ Spicy Noodles](https://github.com/ilovespicynoodles)
 
 &nbsp;
 
